@@ -148,7 +148,11 @@ h1
 {
     text-align: center;
     color: =#555 !important;
+<<<<<<< HEAD
     padding-bottom: 10px;
+=======
+    padding-bottom: 50px;
+>>>>>>> master
 }
 h1::after
 {
